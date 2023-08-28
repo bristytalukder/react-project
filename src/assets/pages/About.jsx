@@ -5,7 +5,7 @@ const About = () => {
     return (
         <>
             <Outlet />
-            <h1>This is About </h1>
+            <h1>This is Aboutt </h1>
             <Link to="nav">nav</Link>
 
         </>
